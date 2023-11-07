@@ -1,0 +1,10 @@
+.gitignore
+/HW/.coverage
+/HW/__init__.py
+
+/venv/
+
+*.xml
+*.iml
+/HW/.pytest_cache/
+
